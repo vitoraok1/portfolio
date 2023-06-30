@@ -1,2 +1,2 @@
 # portfolio
-Personal portfolio made using html, css and js.
+Personal portfolio made using HTML, CSS and JS.
