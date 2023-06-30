@@ -8,7 +8,7 @@
 
 ### Check it out
 
-[Website]([https://vitoraoki.up.railway.app/){:target="_blank"}
+[Website](https://vitoraoki.up.railway.app/)
 
 ---
 
